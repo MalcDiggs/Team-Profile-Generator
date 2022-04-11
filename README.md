@@ -4,6 +4,7 @@
 This project is a team profile generator focused on using Nodejs and other features. Questions are presented via the terminal and the answers are computed into an html portion. 
 
 ## Demonstration video
+https://user-images.githubusercontent.com/97936992/162671246-0b07191a-f514-4644-b6f9-27dceb91d4b8.mov
 
 
 ## Screenshot
